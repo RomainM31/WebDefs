@@ -1,0 +1,28 @@
+body {
+	background-color: #34495e;
+}
+.bg-bas {
+	background-color: #16a085;
+}
+.adv {
+	text-align: center;
+}
+.qui {
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-size: 1.4em;
+	color: aliceblue;
+}
+.htmlbg {
+	background-color: #e67e22;
+}
+.jsbg {
+	background-color: #f1c40f;
+}
+.cssbg {
+	background-color: #3498db;
+}
+.langlogo {
+	height: 120px;
+}
